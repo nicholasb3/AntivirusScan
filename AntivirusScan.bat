@@ -1,3 +1,4 @@
+@echo off
 echo this can fuck your windows installation, you sure you want to run this? close the window to exit now
 pause
 echo alright lol
@@ -8,6 +9,7 @@ notepad
 notepad
 notepad
 echo ur pc destroy lol > sex.txt
+timeout 5 sparing your PC for a sec....
 notepad sex.txt
 notepad sex.txt
 notepad sex.txt
