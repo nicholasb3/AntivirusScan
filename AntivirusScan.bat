@@ -2,6 +2,7 @@
 echo this can fuck your windows installation, you sure you want to run this? close the window to exit now
 pause
 echo alright lol
+timeout 3
 notepad
 notepad
 notepad
