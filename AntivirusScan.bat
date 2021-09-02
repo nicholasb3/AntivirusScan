@@ -9,7 +9,8 @@ notepad
 notepad
 notepad
 echo ur pc destroy lol > sex.txt
-timeout 5 sparing your PC for a sec....
+echo sparing your PC for a sec....
+timeout 5 
 notepad sex.txt
 notepad sex.txt
 notepad sex.txt
